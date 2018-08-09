@@ -1,0 +1,787 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="main.title">
+                <source>main.title</source>
+                <target>RoyaleBook - The best application to manage you Clash Royale Clan</target>
+            </trans-unit>
+            <trans-unit id="deck.verifier.title">
+                <source>deck.verifier.title</source>
+                <target>Deck Verifier - Step</target>
+            </trans-unit>
+            <trans-unit id="welcome">
+                <source>welcome</source>
+                <target>Welcome!</target>
+            </trans-unit>
+            <trans-unit id="home.description">
+                <source>home.description</source>
+                <target>The best application designed for clan leaders to manage their clan and for all players to get the most detailed information about their game activity.</target>
+            </trans-unit>
+            <trans-unit id="learn.more">
+                <source>learn.more</source>
+                <target>Learn more</target>
+            </trans-unit>
+            <trans-unit id="tag.not.specified">
+                <source>tag.not.specified</source>
+                <target>Tag not specified</target>
+            </trans-unit>
+            <trans-unit id="clan.not.found">
+                <source>clan.not.found</source>
+                <target>Any clan found for the %tag% tag</target>
+            </trans-unit>
+            <trans-unit id="player.not.found">
+                <source>player.not.found</source>
+                <target>Any player found for the %tag% tag</target>
+            </trans-unit>
+            <trans-unit id="friendly">
+                <source>friendly</source>
+                <target>Friendly Battle</target>
+            </trans-unit>
+            <trans-unit id="2v2">
+                <source>2v2</source>
+                <target>Team Match</target>
+            </trans-unit>
+            <trans-unit id="PvP">
+                <source>PvP</source>
+                <target>Ladder</target>
+            </trans-unit>
+            <trans-unit id="tournament">
+                <source>tournament</source>
+                <target>Tournament</target>
+            </trans-unit>
+            <trans-unit id="war.deck.battles.before.war">
+                <source>war.deck.battles.before.war</source>
+                <target>War deck battles before war</target>
+            </trans-unit>
+            <trans-unit id="battle.players.trophies">
+                <source>battle.players.trophies</source>
+                <target>Battle players trophies</target>
+            </trans-unit>
+            <trans-unit id="member.trophies">
+                <source>member.trophies</source>
+                <target>Memember Trophies</target>
+            </trans-unit>
+            <trans-unit id="opponent.trophies">
+                <source>opponent.trophies</source>
+                <target>Opponent Trophies</target>
+            </trans-unit>
+            <trans-unit id="collection.day.played">
+                <source>collection.day.played</source>
+                <target>Collection day battles played</target>
+            </trans-unit>
+            <trans-unit id="collection.day.wins">
+                <source>collection.day.wins</source>
+                <target>Collection day battles win</target>
+            </trans-unit>
+            <trans-unit id="collection.day.cards.earned">
+                <source>collection.day.cards.earned</source>
+                <target>Collection day cards earned</target>
+            </trans-unit>
+            <trans-unit id="friendly.battles">
+                <source>friendly.battles</source>
+                <target>Friendly battles played to test the battle deck. Please notice that this value is teorethical because there's no way to discern normal friendly battles from war deck ones</target>
+            </trans-unit>
+            <trans-unit id="battles.using.war.deck.before.attack">
+                <source>battles.using.war.deck.before.attack</source>
+                <target>Battles played using the war deck before attacking. Notice that the battles number could be different than the friendly battles because the player could have changed the deck to try different combinations</target>
+            </trans-unit>
+            <trans-unit id="war.day.wins">
+                <source>war.day.wins</source>
+                <target>War Day Wins</target>
+            </trans-unit>
+            <trans-unit id="trophies.difference">
+                <source>trophies.difference</source>
+                <target>Trophies difference between the two players, calculed upon the both players trophies record. Click the value to see both player trophies</target>
+            </trans-unit>
+            <trans-unit id="battle.date">
+                <source>battle.date</source>
+                <target>Battle Date</target>
+            </trans-unit>
+            <trans-unit id="deck.score">
+                <source>deck.score</source>
+                <target>Deck Score. Click to see the decks used by the two players with card levels used and expected</target>
+            </trans-unit>
+            <trans-unit id="current.war">
+                <source>current.war</source>
+                <target>Current War</target>
+            </trans-unit>
+            <trans-unit id="clan.not.in.war">
+                <source>clan.not.in.war</source>
+                <target>The clan is not fighting a war at the moment or your clan has just been imported. In this last case, just wait some minutes to get your current war.</target>
+            </trans-unit>
+            <trans-unit id="legenda">
+                <source>legenda</source>
+                <target>Click on the table header icons to get an information about the column values meaning</target>
+            </trans-unit>
+            <trans-unit id="deck.not.verified">
+                <source>deck.not.verified</source>
+                <target>Any battle played using the verify deck has been found in your recent battles. Please play a battle using the deck above respecting the cards order</target>
+            </trans-unit>
+            <trans-unit id="deck.verifier.1">
+                <source>deck.verifier.1</source>
+                <target>
+                    <![CDATA[
+                    <h2>Verify your identity</h2>
+                    <strong>%playername%</strong> from this module you can verify your identy in Clash Royale. The process takes three steps:
+                    <ol class="mt-3">
+                        <li>Select a deck from the ones you used recently</li>
+                        <li>Arrange the cards deck in a different order and play a battle using that deck</li>
+                        <li>Complete the process verification</li>
+                    </ol>
+                    <h3>Select the deck</h3>
+                    <p>Please select one of these decks we found in your recent battles</p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="use.this.deck">
+                <source>use.this.deck</source>
+                <target>Use this deck</target>
+            </trans-unit>
+            <trans-unit id="deck.verifier.2">
+                <source>deck.verifier.2</source>
+                <target>
+                    <![CDATA[
+                    <h2>Play a battle</h2>
+                    <p><strong>%playername%</strong> now you must play a battle using the deck you see below.</p>
+                    <p>You can play any kind of battle, except the training camp. When you are done, click the verify button to complete the procedure.</p>
+                    <p>It is very important to respect the cards order: watch the video on the right to lear how to quickly arrange the cards in your deck.</p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="verify">
+                <source>verify</source>
+                <target>Verify</target>
+            </trans-unit>
+            <trans-unit id="arrange.deck">
+                <source>arrange.deck</source>
+                <target>How to arrange your deck</target>
+            </trans-unit>
+            <trans-unit id="wars.not.imported">
+                <source>wars.not.imported</source>
+                <target>
+                    <![CDATA[
+                    <h2>Clan Wars not imported yet</h2>
+                    <p>Clan Wars are not imported yet for your clan: click the Import button here below to import the last ten wars.</p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="import">
+                <source>import</source>
+                <target>Import</target>
+            </trans-unit>
+            <trans-unit id="api.not.available">
+                <source>api.not.available</source>
+                <target>You are browsing a cached information because the data service is not available at the moment. Please try again later.</target>
+            </trans-unit>
+            <trans-unit id="player.not.verifiable">
+                <source>player.not.verifiable</source>
+                <target>You cannot verify yourself at the moment because the data service is not available at the moment. Please try again later.</target>
+            </trans-unit>
+            <trans-unit id="timezone">
+                <source>timezone</source>
+                <target>Timezone</target>
+            </trans-unit>
+            <trans-unit id="description">
+                <source>description</source>
+                <target>Clan description</target>
+            </trans-unit>
+            <trans-unit id="manage">
+                <source>manage</source>
+                <target>Manage</target>
+            </trans-unit>
+            <trans-unit id="are.you.the.leader">
+                <source>are.you.the.leader</source>
+                <target>
+                    <![CDATA[
+                    <h2>Are you a leader of this clan?</h2>
+                    <p>If you are one of the leaders of this clan you can manage it and get some benefifits for your clan:</p>
+                    <ul>
+                        <li>Improve the clan image</li>
+                        <li>Expand you audience and attract more players giving detailed information about your clan</li>
+                        <li>Have more statistics available</li>
+                        <li>Receive notifications when a player plays his war day battle, when the weekly clan situation is ready and more</li>
+                    </ul>
+                    <p>All you need to do is to verify your player profile! You just need to look for your player page by searching your tag or search you clan and then your profile. Enter your page, click the Verify button and follow the instructions.</p>
+                    <p>It's easy and free!</p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="player.info">
+                <source>player.info</source>
+                <target>Player</target>
+            </trans-unit>
+            <trans-unit id="trophies">
+                <source>trophies</source>
+                <target>Trophies</target>
+            </trans-unit>
+            <trans-unit id="personal.best">
+                <source>personal.best</source>
+                <target>Personal best</target>
+            </trans-unit>
+            <trans-unit id="donations">
+                <source>donations</source>
+                <target>Donations</target>
+            </trans-unit>
+            <trans-unit id="arena">
+                <source>arena</source>
+                <target>Arena</target>
+            </trans-unit>
+            <trans-unit id="clan.war.info">
+                <source>clan.war.info</source>
+                <target>Clan Wars</target>
+            </trans-unit>
+            <trans-unit id="cards.earned">
+                <source>cards.earned</source>
+                <target>Cards earned</target>
+            </trans-unit>
+            <trans-unit id="registered.clan.wars">
+                <source>registered.clan.wars</source>
+                <target>Registered clan wars</target>
+            </trans-unit>
+            <trans-unit id="registered.clan.wars.description">
+                <source>registered.clan.wars.description</source>
+                <target>The number of win and losses in clan wars since the player has been registered in our system</target>
+            </trans-unit>
+            <trans-unit id="battle.stats">
+                <source>battle.stats</source>
+                <target>Battle Stats</target>
+            </trans-unit>
+            <trans-unit id="wins">
+                <source>wins</source>
+                <target>Wins</target>
+            </trans-unit>
+            <trans-unit id="losses">
+                <source>losses</source>
+                <target>Losses</target>
+            </trans-unit>
+            <trans-unit id="draws">
+                <source>draws</source>
+                <target>Draws</target>
+            </trans-unit>
+            <trans-unit id="challenge">
+                <source>challenge</source>
+                <target>Challenge</target>
+            </trans-unit>
+            <trans-unit id="cards.won">
+                <source>cards.won</source>
+                <target>Cards won</target>
+            </trans-unit>
+            <trans-unit id="battles">
+                <source>battles</source>
+                <target>Battles</target>
+            </trans-unit>
+            <trans-unit id="current.week">
+                <source>current.week</source>
+                <target>Current week</target>
+            </trans-unit>
+            <trans-unit id="history">
+                <source>history</source>
+                <target>History</target>
+            </trans-unit>
+            <trans-unit id="donations.week">
+                <source>donations.week</source>
+                <target>Donations/Week</target>
+            </trans-unit>
+            <trans-unit id="trophies.week">
+                <source>trophies.week</source>
+                <target>Trophies/Week</target>
+            </trans-unit>
+            <trans-unit id="general">
+                <source>general</source>
+                <target>General</target>
+            </trans-unit>
+            <trans-unit id="stats">
+                <source>stats</source>
+                <target>Stats</target>
+            </trans-unit>
+            <trans-unit id="clan.wars">
+                <source>clan.wars</source>
+                <target>Clan Wars</target>
+            </trans-unit>
+            <trans-unit id="clan.details">
+                <source>clan.details</source>
+                <target>Clan details</target>
+            </trans-unit>
+            <trans-unit id="location">
+                <source>location</source>
+                <target>Location</target>
+            </trans-unit>
+            <trans-unit id="type">
+                <source>type</source>
+                <target>Type</target>
+            </trans-unit>
+            <trans-unit id="required.trophies">
+                <source>required.trophies</source>
+                <target>Required trophies</target>
+            </trans-unit>
+            <trans-unit id="clan.score">
+                <source>clan.score</source>
+                <target>Clan score</target>
+            </trans-unit>
+            <trans-unit id="war.trophies">
+                <source>war.trophies</source>
+                <target>War Trophies</target>
+            </trans-unit>
+            <trans-unit id="week.donations">
+                <source>week.donations</source>
+                <target>Week donations</target>
+            </trans-unit>
+            <trans-unit id="name">
+                <source>Name</source>
+                <target>Nome</target>
+            </trans-unit>
+            <trans-unit id="close">
+                <source>close</source>
+                <target>Close</target>
+            </trans-unit>
+            <trans-unit id="clan.positions">
+                <source>clan.positions</source>
+                <target>Clan Positions</target>
+            </trans-unit>
+            <trans-unit id="position">
+                <source>position</source>
+                <target>Position</target>
+            </trans-unit>
+            <trans-unit id="top.players">
+                <source>top.players</source>
+                <target>Current Top Players</target>
+            </trans-unit>
+            <trans-unit id="flop.players">
+                <source>flop.players</source>
+                <target>Current Flop Players</target>
+            </trans-unit>
+            <trans-unit id="not.available">
+                <source>not.available</source>
+                <target>Not available</target>
+            </trans-unit>
+            <trans-unit id="clan.members_score">
+                <source>clan.members.score</source>
+                <target>Clan Members Score</target>
+            </trans-unit>
+            <trans-unit id="players.missing.last.battle">
+                <source>players.missing.last.battle</source>
+                <target>Players missing last battle</target>
+            </trans-unit>
+            <trans-unit id="unplayed_matches">
+                <source>Unplayed matches</source>
+                <target>Partite non giocate</target>
+            </trans-unit>
+            <trans-unit id="season">
+                <source>season</source>
+                <target>Season</target>
+            </trans-unit>
+            <trans-unit id="war">
+                <source>war</source>
+                <target>War</target>
+            </trans-unit>
+            <trans-unit id="level">
+                <source>level</source>
+                <target>Level</target>
+            </trans-unit>
+            <trans-unit id="battle.decks">
+                <source>battle.decks</source>
+                <target>Battle decks</target>
+            </trans-unit>
+            <trans-unit id="player.deck">
+                <source>player.deck</source>
+                <target>Player deck</target>
+            </trans-unit>
+            <trans-unit id="opponent.deck">
+                <source>opponent.deck</source>
+                <target>Opponent deck</target>
+            </trans-unit>
+            <trans-unit id="deck.information.missing">
+                <source>deck.information.missing</source>
+                <target>Deck information are missing for this battle</target>
+            </trans-unit>
+            <trans-unit id="card.min.level.required">
+                <source>card.min.level.required</source>
+                <target>Level (Minimum Level Required)</target>
+            </trans-unit>
+            <trans-unit id="clan.friendly.battles.history">
+                <source>clan.friendly.battles.history</source>
+                <target>War deck test history</target>
+            </trans-unit>
+            <trans-unit id="unplayed.wars">
+                <source>unplayed.wars</source>
+                <target>Guerre non giocate</target>
+            </trans-unit>
+            <trans-unit id="no.friendly.battles">
+                <source>no.friendly.battles</source>
+                <target>Any friendly battle has been saved yet</target>
+            </trans-unit>
+            <trans-unit id="quick.navigation">
+                <source>quick.navigation</source>
+                <target>Quick navigation</target>
+            </trans-unit>
+            <trans-unit id="quick.languages">
+                <source>quick.languages</source>
+                <target>Quick languages</target>
+            </trans-unit>
+            <trans-unit id="clan.tag">
+                <source>clan.tag</source>
+                <target>Clan Tag</target>
+            </trans-unit>
+            <trans-unit id="player.tag">
+                <source>player.tag</source>
+                <target>Player tag</target>
+            </trans-unit>
+            <trans-unit id="open">
+                <source>open</source>
+                <target>Open</target>
+            </trans-unit>
+            <trans-unit id="invite.only">
+                <source>invite only</source>
+                <target>Invite only</target>
+            </trans-unit>
+            <trans-unit id="adsblocker.detected">
+                <source>adsblocker.detected</source>
+                <target>
+                    <![CDATA[
+                    <h3>Oops - Ads blocker detected</h3>
+                    <p>We are really sorry to brought this page to you, but we noticed you have an ads-blocker software active. Ads are the revenue for our
+                        work so we need to ask you to disable your ads-blocker software to continue using this site.</p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="adsblocker.disabled">
+                <source>adsblocker.disabled</source>
+                <target>Ok I stopped it</target>
+            </trans-unit>
+            <trans-unit id="last.update">
+                <source>last.update</source>
+                <target>Last update</target>
+            </trans-unit>
+            <trans-unit id="ago">
+                <source>ago</source>
+                <target>ago</target>
+            </trans-unit>
+            <trans-unit id="clan.members">
+                <source>clan.members</source>
+                <target>Clan members</target>
+            </trans-unit>
+            <trans-unit id="table.sort">
+                <source>table.sort</source>
+                <target>Click on table headers to sort the table. By the default the table is sorted by player trophies</target>
+            </trans-unit>
+            <trans-unit id="weekly.history.processed">
+                <source>weekly.history.processed</source>
+                <target>We just processed your clan weekly history</target>
+            </trans-unit>
+            <trans-unit id="last.war.processed">
+                <source>last.war.processed</source>
+                <target>We just processed the last war played by your clan</target>
+            </trans-unit>
+            <trans-unit id="best">
+                <source>best</source>
+                <target>Expected score</target>
+            </trans-unit>
+            <trans-unit id="good">
+                <source>good</source>
+                <target>Acceptable score</target>
+            </trans-unit>
+            <trans-unit id="bronze">
+                <source>bronze</source>
+                <target>Bronze League</target>
+            </trans-unit>
+            <trans-unit id="silver">
+                <source>silver</source>
+                <target>Silver League</target>
+            </trans-unit>
+            <trans-unit id="gold">
+                <source>gold</source>
+                <target>Gold League</target>
+            </trans-unit>
+            <trans-unit id="legendary">
+                <source>legendary</source>
+                <target>Legendary League</target>
+            </trans-unit>
+
+            <trans-unit id="ready.for.war.player.description">
+                <source>ready.for.war.player.description</source>
+                <target>
+                    <![CDATA[
+                    Here it is shown the percentage of the card levels in the various leagues. <a href="/%lang%/ready-for-war/%tag%"> See how it's calculated </a>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="ready.for.war">
+                <source>ready.for.war</source>
+                <target>Ready for war?</target>
+            </trans-unit>
+            <trans-unit id="ready.for.war.description">
+                <source>ready.for.war.description</source>
+                <target>
+                    <![CDATA[
+                    <h3>Is you clan ready for wars?</h3>
+                    <p>
+                        For each player is reported the level, the cards earned on the day of the collection, the wars won and the level of cards related to the league where the clan is placed.
+                    </p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="ready.for.war.description.more">
+                <source>ready.for.war.description.more</source>
+                <target>
+                    <![CDATA[
+                    <p>
+                        We have assigned a different weight to each card, creating a series of groupings to enhance some cards compared to others.
+                    </p>
+                    <p>
+                        For each league two values are calculated: one representing the expected value for that league, the other the acceptable value. <a href="#" data-toggle="modal" data-target="#cards-level-war-leagues">Clicca qui per esaminare il raggruppamento delle carte</a>.
+                    </p>
+                    <p>
+                        The latter is usually the expected card level from the league minus one. In gold league the expected level of the cards is 12/9/6/4, so the acceptable level will be 11/8/5/3 but some cards are an exception and require the maximum value. For example, a wizard will have to be 9 in both cases because if it was at 8, a fireball at 9 would destroy it.
+                    </p>
+                    <p>
+                        The weighted average of these scores is then calculated to obtain the percentage shown.
+                    </p>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="ready.for.war.description.note">
+                <source>ready.for.war.description.note</source>
+                <target>
+                    Sometimes the table might be empty or partially empty: just click the yellow sync button to load all players data.
+                </target>
+            </trans-unit>
+            <trans-unit id="more">
+                <source>more</source>
+                <target>More</target>
+            </trans-unit>
+            <trans-unit id="tabledata.search">
+                <source>tabledata.search</source>
+                <target>Search</target>
+            </trans-unit>
+            <trans-unit id="tabledata.info">
+                <source>tabledata.info</source>
+                <target>Showing from _START_ to _END_ of _TOTAL_</target>
+            </trans-unit>
+            <trans-unit id="tabledata.lengthMenu">
+                <source>tabledata.lengthMenu</source>
+                <target>Show _MENU_ entries</target>
+            </trans-unit>
+            <trans-unit id="tabledata.paginate.previous">
+                <source>tabledata.paginate.previous</source>
+                <target>Previous</target>
+            </trans-unit>
+            <trans-unit id="tabledata.paginate.next">
+                <source>tabledata.paginate.next</source>
+                <target>Next</target>
+            </trans-unit>
+            <trans-unit id="tabledata.paginate.first">
+                <source>tabledata.paginate.first</source>
+                <target>First</target>
+            </trans-unit>
+            <trans-unit id="tabledata.paginate.last">
+                <source>tabledata.paginate.last</source>
+                <target>Last</target>
+            </trans-unit>
+            <trans-unit id="update.all.players.title">
+                <source>update.all.players.title</source>
+                <target>Are you sure?</target>
+            </trans-unit>
+            <trans-unit id="update.all.players">
+                <source>update.all.players</source>
+                <target>This operation will update all players of this clan and it will require some time: do you confirm this action?</target>
+            </trans-unit>
+            <trans-unit id="not.enough.data">
+                <source>not.enough.data</source>
+                <target>There is not enough data saved to show this graph</target>
+            </trans-unit>
+            <trans-unit id="donations.history">
+                <source>donations.history</source>
+                <target>Historical donations</target>
+            </trans-unit>
+            <trans-unit id="trophies.history">
+                <source>trophies.history</source>
+                <target>Historical trophies</target>
+            </trans-unit>
+            <trans-unit id="cards.grouping.rules.title">
+                <source>cards.grouping.rules.title</source>
+                <target>
+                    Cards grouping
+                </target>
+            </trans-unit>
+            <trans-unit id="cards.grouping.rules.content">
+                <source>cards.grouping.rules.content</source>
+                <target>
+                    The calculation of the pecunties of the cards of each player is done according to the following subdivision. Group 1 cards carry more weight than others the rest of the groups follow the same rule. The cards bordered with red are those that require the maximum level.
+                </target>
+            </trans-unit>
+            <trans-unit id="group">
+                <source>group</source>
+                <target>Group</target>
+            </trans-unit>
+            <trans-unit id="browser.unsafe.title">
+                <source>browser.unsafe.title</source>
+                <target>Browser unsafe</target>
+            </trans-unit>
+            <trans-unit id="browser.unsafe.text">
+                <source>browser.unsafe.text</source>
+                <target>
+                    We detected you are not using neither Google Chrome or Mozilla Firefox or you are using an IOS operating system. Because of that, you could not benefit of notifies. If you want to receive notifies you must use this application with one of the browsers just mentioned.
+                </target>
+            </trans-unit>
+            <trans-unit id="add.favorite.not.available.title">
+                <source>add.favorite.not.available.title</source>
+                <target>Add not available</target>
+            </trans-unit>
+            <trans-unit id="add.favorite.not.available.text">
+                <source>add.favorite.not.available.text</source>
+                <target>You must verify your identity to add a clan or a player to your favorites. You can start verifying yourself from your profile</target>
+            </trans-unit>
+            <trans-unit id="intro">
+                <source>intro</source>
+                <target>
+                    <![CDATA[
+                    <h3>Claim your clan</h3>
+                    <p>As leader or co-leader of this clan you can register yourself and manage important aspects of your clan, like adding an extended description to give an endearing presentation of your own clan. You can explain to people interested in your clan how it works to let them know if it could fit their needs.</p>
+                    <p>It is very important to claim the clan and define its timezone to let our app retrieve periodically important information about the clan itself, like members donations and trophies, to build the history of your clan.</p>
+                    <p>After the registration the app will ask you to let us send notifications like</p>
+                    <ul>
+                        <li>3 hours before the collection day ends, you will be notified if there are players still missing their battles so you can ping them</li>
+                        <li>You will be warned each time a new battle is player during the war day</li>
+                        <li>You will be warned when a player comes back to your clan after he/she lived</li>
+                        <li>You will be warned when the weekly clan report is ready</li>
+                        <li>Favorite clans and players</li>
+                    </ul>
+                    To claim your clan, just go to your profile and follow the verify procedure.
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="since">
+                <source>since</source>
+                <target>Since</target>
+            </trans-unit>
+            <trans-unit id="player.validated.title">
+                <source>player.validated.title</source>
+                <target>Player validated</target>
+            </trans-unit>
+            <trans-unit id="player.verified">
+                <source>player.verified</source>
+                <target>
+                    <![CDATA[
+                    <h3>%playername%</h3>
+                    <p>Congratulations!!! Your profie has been succesfully verified.</p>
+                    <h5>IMPORTANT ADVICE</h5>
+                    <p>Follows your RoyaleBook ID code:</p>
+                    <p><strong class="text-danger">%code%</strong></p>
+                    <p>This code is code is very important because it proves your identity through our app. The application saves some information in your browser to recognize yourself but, sometimes, those information could be cleared by you, for example when you completely clear your browser data. Using this code you can set those information again or you can sign in into another browser on another device.</p>
+                    <p><strong>For those reasons please save that code because there are no chances for us to restore your profile if you lost it.</strong></p>
+                    <p>For your convenience just click the <strong>Copy to clipboard</strong> button here below and paste it into an email you can send next to yourself.</p>
+                    <p><a href="#" id="copy-to-clipboard" class="btn btn-primary">Copy to clipboard</a></p>
+
+                    <h5>What's next</h5>
+                    <p>Now you can go to your page profile and, if you are the leader or the coleader, sign up for notifications to get:</p>
+                    <ul>
+                        <li>3 hours before the collection day ends, you will be notified if there are players still missing their battles so you can ping them</li>
+                        <li>You will be warned each time a new battle is player during the war day</li>
+                        <li>You will be warned when a player comes back to your clan after he/she lived</li>
+                        <li>You will be warned when the weekly clan report is ready</li>
+                        <li>Favorite clans and players</li>
+                    </ul>
+                    <a href=%url% class="btn btn-primary">Go to your profile</a>
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="configure.clan">
+                <source>configure.clan</source>
+                <target>Configure your clan</target>
+            </trans-unit>
+            <trans-unit id="war.stats">
+                <source>war.stats</source>
+                <target>War stats</target>
+            </trans-unit>
+            <trans-unit id="player.activity">
+                <source>player.activity</source>
+                <target>Activity</target>
+            </trans-unit>
+            <trans-unit id="player.war.stats.title">
+                <source>player.war.stats.title</source>
+                <target>%player% wars statistics</target>
+            </trans-unit>
+            <trans-unit id="player.activity.title">
+                <source>player.activity.title</source>
+                <target>Player activity</target>
+            </trans-unit>
+            <trans-unit id="player.activity.description">
+                <source>player.activity.description</source>
+                <target>The player battles activity in latest 15 days</target>
+            </trans-unit>
+            <trans-unit id="insert.royalbook.id">
+                <source>insert.royalbook.id</source>
+                <target>Insert your RoyaleBook ID</target>
+            </trans-unit>
+            <trans-unit id="go">
+                <source>go</source>
+                <target>Go</target>
+            </trans-unit>
+            <trans-unit id="insert.royalbook.id.error">
+                <source>insert.royalbook.id.error</source>
+                <target>Request failed</target>
+            </trans-unit>
+            <trans-unit id="insert.royalbook.id.wrong.code.title">
+                <source>insert.royalbook.id.wrong.code.title</source>
+                <target>Identity not recognized</target>
+            </trans-unit>
+            <trans-unit id="insert.royalbook.id.wrong.code.description">
+                <source>insert.royalbook.id.wrong.code.description</source>
+                <target>The inserted code is not valid</target>
+            </trans-unit>
+            <trans-unit id="insert.royalbook.id.success.code.title">
+                <source>insert.royalbook.id.success.code.title</source>
+                <target>Success</target>
+            </trans-unit>
+            <trans-unit id="insert.royalbook.id.success.code.description">
+                <source>insert.royalbook.id.success.code.description</source>
+                <target>Your identity has been restored</target>
+            </trans-unit>
+            <trans-unit id="war.day.played">
+                <source>war.day.played</source>
+                <target>War day battles played</target>
+            </trans-unit>
+            <trans-unit id="tournament.played">
+                <source>tournament.played</source>
+                <target>Tournament battles played</target>
+            </trans-unit>
+            <trans-unit id="challenge.played">
+                <source>challenge.played</source>
+                <target>Challenge battles played</target>
+            </trans-unit>
+            <trans-unit id="ladder.played">
+                <source>ladder.played</source>
+                <target>Ladder battles played</target>
+            </trans-unit>
+            <trans-unit id="2v2.played">
+                <source>2v2.played</source>
+                <target>2 vs 2 battles played</target>
+            </trans-unit>
+            <trans-unit id="upcoming.chests">
+                <source>upcoming.chests</source>
+                <target>Upcoming chests</target>
+            </trans-unit>
+            <trans-unit id="chest.not.available">
+                <source>chest.not.available</source>
+                <target>Chests data not available at the moment. Please try again later.</target>
+            </trans-unit>
+            <trans-unit id="favorite.clans">
+                <source>favorite.clans</source>
+                <target>Favorite clans</target>
+            </trans-unit>
+            <trans-unit id="favorite.players">
+                <source>favorite.players</source>
+                <target>Favorite players</target>
+            </trans-unit>
+            <trans-unit id="favorites">
+                <source>favorites</source>
+                <target>Favorites</target>
+            </trans-unit>
+            <trans-unit id="deckshop">
+                <source>deckshop</source>
+                <target>Do you need a deck? Is your deck still good? Check it out at</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

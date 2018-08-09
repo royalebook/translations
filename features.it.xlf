@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="it" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="page.title">
+                <source>page.title</source>
+                <target>Le caratteristiche di Royalebook per la gestione di un clan di Clash Royale</target>
+            </trans-unit>
+            <trans-unit id="features">
+                <source>features</source>
+                <target>Caratteristiche di Royalebook</target>
+            </trans-unit>
+            <trans-unit id="intro">
+                <source>intro</source>
+                <target>RoyaleBook è un'applicazione web progettata da una parte per gestire un clan di Clash Royale e dall'altra per fornire informazioni statistiche e dettagliate ai giocatori. E' disegnata per funzionare sul dispositivo dove giochi a Clash Royale in modo che tu possa tracciare le tue informazioni in modo semplice ed efficace.</target>
+            </trans-unit>
+            <trans-unit id="clan.stats">
+                <source>clan.stats</source>
+                <target>Statistiche del clan</target>
+            </trans-unit>
+            <trans-unit id="clan.info">
+                <source>clan.info</source>
+                <target>Le informazioni di base del clan. Da notare la possibilità di configurare una descrizione estesa per fornire una presentazione migliore del clan</target>
+            </trans-unit>
+            <trans-unit id="clan.historical.stats">
+                <source>clan.historical.stats</source>
+                <target>I grafici statistici del clan ti permettono di traccia le donazioni e i trofei del tuo clan nelle ultime 5 settimane</target>
+            </trans-unit>
+            <trans-unit id="clan.members">
+                <source>clan.members</source>
+                <target>Tieni traccia delle donazioni, delle richieste e dei trofei della settimana in corso. Da notare la data di ingresso nel clan</target>
+            </trans-unit>
+            <trans-unit id="clan.wars.graphs">
+                <source>clan.wars.graphs</source>
+                <target>I grafici statistici delle guerre ti permettono di tracciare gli ultimi posizionamenti e i trofei nelle guerre dei clan</target>
+            </trans-unit>
+            <trans-unit id="clan.wars.seasons">
+                <source>clan.wars.seasons</source>
+                <target>Puoi tracciare il progresso dei posizionamenti e dei trofei delle guerre registate</target>
+            </trans-unit>
+            <trans-unit id="clan.war.detail">
+                <source>clan.wars.detail</source>
+                <target>Esplora i dettagli per ogni guerra. Puoi sapere i risultati della guerra, lebattaglie amichevoli per provare il deck, il punteggio in arena dell'avversario e i deck usati dai giocatori</target>
+            </trans-unit>
+            <trans-unit id="clan.war.members.score">
+                <source>clan.wars.members.score</source>
+                <target>Tieni traccia dei punteggi dei giocatori nelle guerre registrate</target>
+            </trans-unit>
+            <trans-unit id="clan.war.friendly.battles">
+                <source>clan.wars.friendly.battles</source>
+                <target>Tieni traccia delle partite amichevoli per il test del deck nelle guerre registrate</target>
+            </trans-unit>
+            <trans-unit id="clan.war.missing.battles">
+                <source>clan.wars.missing.battles</source>
+                <target>Tieni traccia delle partite non giocate dai membri del clan</target>
+            </trans-unit>
+            <trans-unit id="current.war.collection.day">
+                <source>current.war.collection.day</source>
+                <target>Le battaglie in tempo reale del giorno della collezione</target>
+            </trans-unit>
+            <trans-unit id="current.war.war.day">
+                <source>current.war.war.day</source>
+                <target>Le battaglie in tempo reale del giorno della guerra. Le ultime battaglie si trovano in alto e sono evidenziate</target>
+            </trans-unit>
+            <trans-unit id="ready.for.war.description">
+                <source>ready.for.war.description</source>
+                <target>Controlla preventivamente se un giocatore può andare bene al tuo clan per la lega dov'è posizionato quando entra</target>
+            </trans-unit>
+            <trans-unit id="clan.management">
+                <source>clan.management</source>
+                <target>Gestione del clan</target>
+            </trans-unit>
+            <trans-unit id="clan.management.description">
+                <source>clan.management.description</source>
+                <target>Configurazioni extra per il tuo clan</target>
+            </trans-unit>
+            <trans-unit id="player">
+                <source>player</source>
+                <target>Giocatore</target>
+            </trans-unit>
+            <trans-unit id="player.profile">
+                <source>player.profile</source>
+                <target>Profilo del giocatore</target>
+            </trans-unit>
+            <trans-unit id="player.historycal.data">
+                <source>player.historycal.data</source>
+                <target>Dati storici delle donazioni e dei trofei del giocatore</target>
+            </trans-unit>
+            <trans-unit id="player.wars.data">
+                <source>player.wars.data</source>
+                <target>Le registrazioni delle battaglie nelle guerre tra clan del giocatore</target>
+            </trans-unit>
+            <trans-unit id="player.activity">
+                <source>player.activity</source>
+                <target>Resoconto giornaliero sulle battaglie del giocatore</target>
+            </trans-unit>
+            <trans-unit id="notifies">
+                <source>notifies</source>
+                <target>Notifiche</target>
+            </trans-unit>
+            <trans-unit id="notifies.description">
+                <source>notifies.description</source>
+                <target>Questa funzionalità è disponibile solo per Android al momento</target>
+            </trans-unit>
+            <trans-unit id="collection.day.notitify">
+                <source>collection.day.notitify</source>
+                <target>Tre ore prima della fine de giorno della collezione, ti arriverà una notifica per segnalarti se qualche giocatore deve ancora completare i suoi attacchi</target>
+            </trans-unit>
+            <trans-unit id="war.day.notitify">
+                <source>war.day.notitify</source>
+                <target>Verrai avvisato ogni volta che una battglia viene giocata nel giorno della collezione</target>
+            </trans-unit>
+            <trans-unit id="war.processed.notitify">
+                <source>war.processed.notitify</source>
+                <target>Verrai avvisato quando una guerra finisce, che è stata processata dall'applicazione</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="page.title">
+                <source>page.title</source>
+                <target>Royalebook Features to manage a Clash Royale clan</target>
+            </trans-unit>
+            <trans-unit id="features">
+                <source>features</source>
+                <target>Royalebook Features</target>
+            </trans-unit>
+            <trans-unit id="intro">
+                <source>intro</source>
+                <target>RoyaleBook is a web application designed to manage a Clash Royale Clan even it provides useful statistical data for players. It is made to perfectly work on the device you use to play Clash Royale to let you easily track and manage your clan or personal activity.</target>
+            </trans-unit>
+            <trans-unit id="clan.stats">
+                <source>clan.stats</source>
+                <target>Clan statistics</target>
+            </trans-unit>
+            <trans-unit id="clan.info">
+                <source>clan.info</source>
+                <target>Clan base information. Please notice the extended description can be set to give a better presentation of your clan</target>
+            </trans-unit>
+            <trans-unit id="clan.historical.stats">
+                <source>clan.historical.stats</source>
+                <target>Keep tracking your last 5 weeks clan historical donations and trophies watching the statistical provided graphs</target>
+            </trans-unit>
+            <trans-unit id="clan.members">
+                <source>clan.members</source>
+                <target>Keep an eye on your members donations, requests and trophies in the current week. Look at the date of entry into the clan</target>
+            </trans-unit>
+            <trans-unit id="clan.wars.graphs">
+                <source>clan.wars.graphs</source>
+                <target>Keep tracking your lastest wars positions and trophies, watching the statistical provided graphs</target>
+            </trans-unit>
+            <trans-unit id="clan.wars.seasons">
+                <source>clan.wars.seasons</source>
+                <target>Keep tracking of the registered wars positions and trophies progressions</target>
+            </trans-unit>
+            <trans-unit id="clan.war.detail">
+                <source>clan.wars.detail</source>
+                <target>Explore the detailss for each war. For each player you could know war results, friendly battles to test war deck, opponent ladder score and the players decks</target>
+            </trans-unit>
+            <trans-unit id="clan.war.members.score">
+                <source>clan.wars.members.score</source>
+                <target>Keep tracking of your members score in all the registered wars</target>
+            </trans-unit>
+            <trans-unit id="clan.war.friendly.battles">
+                <source>clan.wars.friendly.battles</source>
+                <target>Keep tracking of your members friendly battles to test the war deck in all the registered wars</target>
+            </trans-unit>
+            <trans-unit id="clan.war.missing.battles">
+                <source>clan.wars.missing.battles</source>
+                <target>Keep tracking of your members missing battles</target>
+            </trans-unit>
+            <trans-unit id="current.war.collection.day">
+                <source>current.war.collection.day</source>
+                <target>Real time collection day battles</target>
+            </trans-unit>
+            <trans-unit id="current.war.war.day">
+                <source>current.war.war.day</source>
+                <target>Real time war day battles. Last battles are displayed at the top of the table and highlighted</target>
+            </trans-unit>
+            <trans-unit id="ready.for.war.description">
+                <source>ready.for.war.description</source>
+                <target>Verify if a player fits the need of your clan for the league where it is where when he/she enters</target>
+            </trans-unit>
+            <trans-unit id="clan.management">
+                <source>clan.management</source>
+                <target>Clan management</target>
+            </trans-unit>
+            <trans-unit id="clan.management.description">
+                <source>clan.management.description</source>
+                <target>Extra configurations for your clan</target>
+            </trans-unit>
+            <trans-unit id="player">
+                <source>player</source>
+                <target>Player</target>
+            </trans-unit>
+            <trans-unit id="player.profile">
+                <source>player.profile</source>
+                <target>Player profile</target>
+            </trans-unit>
+            <trans-unit id="player.historycal.data">
+                <source>player.historycal.data</source>
+                <target>Player historycal trophies and donations data</target>
+            </trans-unit>
+            <trans-unit id="player.wars.data">
+                <source>player.wars.data</source>
+                <target>Player registered wars data</target>
+            </trans-unit>
+            <trans-unit id="player.activity">
+                <source>player.activity</source>
+                <target>Player daily battles</target>
+            </trans-unit>
+            <trans-unit id="notifies">
+                <source>notifies</source>
+                <target>Notifies</target>
+            </trans-unit>
+            <trans-unit id="notifies.description">
+                <source>notifies.description</source>
+                <target>At the moment this feature is only available on Android platform</target>
+            </trans-unit>
+            <trans-unit id="collection.day.notitify">
+                <source>collection.day.notitify</source>
+                <target>Three hours before collection day ends, you will be notified if some players are missing some mathces</target>
+            </trans-unit>
+            <trans-unit id="war.day.notitify">
+                <source>war.day.notitify</source>
+                <target>During the war day, you will be notified each time a new battle is played</target>
+            </trans-unit>
+            <trans-unit id="war.processed.notitify">
+                <source>war.processed.notitify</source>
+                <target>When a war ends, you will be notified that it has been processed</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
