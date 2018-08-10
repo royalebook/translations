@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="support.title">
+                <source>support.title</source>
+                <target>Royalebook - Get in touch with us</target>
+            </trans-unit>
+            <trans-unit id="support.intro">
+                <source>support.intro</source>
+                <target>Get in touch with us</target>
+            </trans-unit>
+            <trans-unit id="support.issues">
+                <source>support.issues</source>
+                <target>
+                    <![CDATA[
+                    <h3>Issues / New features</h3>
+                    Though we try to do our best to keep bugs away from our application, sometimes it could happen that something goes wrong. If you should find an issue in our application or if you want to suggest a new feature, simply open an issue at <a href="https://github.com/royalebook/royalebook">Github</a>.
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="support.translations">
+                <source>support.translations</source>
+                <target>
+                    <![CDATA[
+                    <h3>Translations</h3>
+                    If you would like to translate this application in your language or fix some typos, just follows these <a href="https://github.com/royalebook/translations">instructions</a>.
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="support.talk">
+                <source>support.talk</source>
+                <target>
+                    <![CDATA[
+                    <h3>Talk with us</h3>
+                    To talk with us, you can write at <a href="https://twitter.com/royalebook">twitter</a> or you can send us an email to info [aT] royalebook [dOt] org
+                    ]]>
+                </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

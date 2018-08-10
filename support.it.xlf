@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="support.title">
+                <source>support.title</source>
+                <target>Royalebook - Contattaci</target>
+            </trans-unit>
+            <trans-unit id="support.intro">
+                <source>support.intro</source>
+                <target>Contattaci</target>
+            </trans-unit>
+            <trans-unit id="support.issues">
+                <source>support.issues</source>
+                <target>
+                    <![CDATA[
+                    <h3>Problemi / Nuove funzionalità</h3>
+                    Sebbene cerchiamo di fare il massimo per fornire un applicazione priva di bug, potrebbe capitare che qualcosa ci sfugga. Se dovessi incontrare un problema durante l'utilizzo di questa applicazione, segnalacelo aprendo una "issue" a <a href="https://github.com/royalebook/royalebook">Github</a>.
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="support.translations">
+                <source>support.translations</source>
+                <target>
+                    <![CDATA[
+                    <h3>Traduzione</h3>
+                    Se vorresti aiutarci a tradurre l'applicazione nella tua lingua, segui le istruzioni a questa <a href="https://github.com/royalebook/translations">pagina</a>.
+                    ]]>
+                </target>
+            </trans-unit>
+            <trans-unit id="support.talk">
+                <source>support.talk</source>
+                <target>
+                    <![CDATA[
+                    <h3>Contattaci</h3>
+                    Per parlare con noi, puoi scriverci su <a href="https://twitter.com/royalebook">twitter</a> oppure puoi inviare una mail a info [aT] royalebook [dOt] org
+                    ]]>
+                </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

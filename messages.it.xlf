@@ -6,6 +6,14 @@
                 <source>welcome</source>
                 <target>Benvenuto!</target>
             </trans-unit>
+            <trans-unit id="start.here">
+                <source>start.here</source>
+                <target>Inizia da qui</target>
+            </trans-unit>
+            <trans-unit id="start.here.description">
+                <source>start.here.description</source>
+                <target>Inserisci il TAG del tuo clan o giocatore ed inizia!</target>
+            </trans-unit>
             <trans-unit id="home.description">
                 <source>home.description</source>
                 <target>La miglior applicazione progettata per i capi per la gestione dei loro clan e per tutti i giocatori per analizzare tutte le informazioni sulla loro attività di gioco.</target>
@@ -762,6 +770,10 @@
            <trans-unit id="deckshop">
                <source>deckshop</source>
                <target>Ti serve un deck? Il tuo deck funziona? Dai un'occhiata a</target>
+           </trans-unit>
+           <trans-unit id="support">
+               <source>support</source>
+               <target>Supporto</target>
            </trans-unit>
         </body>
     </file>

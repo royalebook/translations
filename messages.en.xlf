@@ -14,6 +14,14 @@
                 <source>welcome</source>
                 <target>Welcome!</target>
             </trans-unit>
+            <trans-unit id="start.here">
+                <source>start.here</source>
+                <target>Start here</target>
+            </trans-unit>
+            <trans-unit id="start.here.description">
+                <source>start.here.description</source>
+                <target>Just enter your clan or player TAG to go!</target>
+            </trans-unit>
             <trans-unit id="home.description">
                 <source>home.description</source>
                 <target>The best application designed for clan leaders to manage their clan and for all players to get the most detailed information about their game activity.</target>
@@ -781,6 +789,10 @@
             <trans-unit id="deckshop">
                 <source>deckshop</source>
                 <target>Do you need a deck? Is your deck still good? Check it out at</target>
+            </trans-unit>
+            <trans-unit id="support">
+                <source>support</source>
+                <target>Support</target>
             </trans-unit>
         </body>
     </file>
