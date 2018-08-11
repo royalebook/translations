@@ -794,6 +794,25 @@
                 <source>support</source>
                 <target>Support</target>
             </trans-unit>
+            <trans-unit id="preferred.language">
+                <source>preferred.language</source>
+                <target>Preferred language for notifications</target>
+            </trans-unit>
+            <trans-unit id="player.settings">
+                <source>player.settings</source>
+                <target>Player settings</target>
+            </trans-unit>
+            <trans-unit id="player.not.verified">
+                <source>player.not.verified</source>
+                <target>
+                    <![CDATA[
+                    <h3>Settings not available</h3>
+                    <p>Settings are not available because this player has not verified yet. If you are this player, please complete the verify procedure, by clicking the Verify button next to the player name.</p>
+                    ]]>
+                </target>
+            </trans-unit>
+
+
         </body>
     </file>
 </xliff>

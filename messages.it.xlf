@@ -775,6 +775,14 @@
                <source>support</source>
                <target>Supporto</target>
            </trans-unit>
+           <trans-unit id="preferred.language">
+               <source>preferred.language</source>
+               <target>Lingua desiderata per le notifiche</target>
+           </trans-unit>
+           <trans-unit id="player.settings">
+               <source>player.settings</source>
+               <target>Impostazioni giocatore</target>
+           </trans-unit>
         </body>
     </file>
 </xliff>
