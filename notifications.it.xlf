@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="it" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="collection.day.missing.battles">
+                <source>collection.day.missing.battles</source>
+                <target>%players% giocatori devono ancora giocare alcune battaglie</target>
+            </trans-unit>
+            <trans-unit id="war.day.new.battle">
+                <source>war.day.new.battle</source>
+                <target>Ci sono %battles% nuove battaglie giocate nel tuo clan</target>
+            </trans-unit>
+            <trans-unit id="clan.war.processed">
+                <source>clan.war.processed</source>
+                <target>Abbiamo processato l'ultima guerra giocata dal tuo clan</target>
+            </trans-unit>
+            <trans-unit id="clan.weekly.history.processed">
+                <source>clan.weekly.history.processed</source>
+                <target>Abbiamo processato lo storico del tuo clan</target>
+            </trans-unit>
+            <trans-unit id="player.returned">
+                <source>player.returned</source>
+                <target>Il giocatore %name% era già stato nel tuo clan</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
