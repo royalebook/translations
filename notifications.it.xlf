@@ -12,11 +12,11 @@
             </trans-unit>
             <trans-unit id="clan.war.processed">
                 <source>clan.war.processed</source>
-                <target>Abbiamo processato l'ultima guerra giocata dal tuo clan</target>
+                <target>Abbiamo elaborato l'ultima guerra giocata dal tuo clan</target>
             </trans-unit>
             <trans-unit id="clan.weekly.history.processed">
                 <source>clan.weekly.history.processed</source>
-                <target>Abbiamo processato lo storico del tuo clan</target>
+                <target>Abbiamo elaborato lo storico del tuo clan</target>
             </trans-unit>
             <trans-unit id="player.returned">
                 <source>player.returned</source>
