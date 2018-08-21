@@ -295,9 +295,13 @@
                 <source>trophies.week</source>
                 <target>Trophies/Week</target>
             </trans-unit>
-            <trans-unit id="general">
-                <source>general</source>
-                <target>General</target>
+            <trans-unit id="clan.general.info">
+                <source>clan.general.info</source>
+                <target>Clan Info</target>
+            </trans-unit>
+            <trans-unit id="player.general.info">
+                <source>player.general.info</source>
+                <target>Player Info</target>
             </trans-unit>
             <trans-unit id="stats">
                 <source>stats</source>
