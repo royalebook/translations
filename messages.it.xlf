@@ -787,6 +787,10 @@
                <source>player.settings</source>
                <target>Impostazioni giocatore</target>
            </trans-unit>
+           <trans-unit id="wins.cards.ratio">
+               <source>wins.cards.ratio</source>
+               <target>Rapporto tra le vittorie nel giorno della guerra e le carte guadagnate in percentuale. Più alto è il valore più forte è il giocatore</target>
+           </trans-unit>
         </body>
     </file>
 </xliff>

@@ -815,8 +815,10 @@
                     ]]>
                 </target>
             </trans-unit>
-
-
+            <trans-unit id="wins.cards.ratio">
+                <source>wins.cards.ratio</source>
+                <target>Ratio between the victories on the day of the war and the cards earned as a percentage. The higher the value, the stronger the player is</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>
