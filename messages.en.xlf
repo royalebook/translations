@@ -541,7 +541,7 @@
                         We have assigned a different weight to each card, creating a series of groupings to enhance some cards compared to others.
                     </p>
                     <p>
-                        For each league two values are calculated: one representing the expected value for that league, the other the acceptable value. <a href="#" data-toggle="modal" data-target="#cards-level-war-leagues">Clicca qui per esaminare il raggruppamento delle carte</a>.
+                        For each league two values are calculated: one representing the expected value for that league, the other the acceptable value. <a href="#" data-toggle="modal" data-target="#cards-level-war-leagues">Click here to see how cards are grouped</a>.
                     </p>
                     <p>
                         The latter is usually the expected card level from the league minus one. In gold league the expected level of the cards is 12/9/6/4, so the acceptable level will be 11/8/5/3 but some cards are an exception and require the maximum value. For example, a wizard will have to be 9 in both cases because if it was at 8, a fireball at 9 would destroy it.
