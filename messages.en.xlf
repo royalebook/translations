@@ -311,6 +311,10 @@
                 <source>clan.wars</source>
                 <target>Clan Wars</target>
             </trans-unit>
+            <trans-unit id="clan.wars.stats">
+                <source>clan.wars.stats</source>
+                <target>Clan Wars Stats</target>
+            </trans-unit>
             <trans-unit id="clan.details">
                 <source>clan.details</source>
                 <target>Clan details</target>
