@@ -823,6 +823,78 @@
                 <source>wins.cards.ratio</source>
                 <target>Ratio between the victories on the day of the war and the cards earned as a percentage. The higher the value, the stronger the player is</target>
             </trans-unit>
+            <trans-unit id="player.cards">
+                <source>player.cards</source>
+                <target>Cards</target>
+            </trans-unit>
+            <trans-unit id="card.level">
+               <source>card.level</source>
+               <target>Card level</target>
+            </trans-unit>
+            <trans-unit id="is.card.levelled">
+                <source>is.card.levelled</source>
+                <target>Levelled for player's clan league</target>
+            </trans-unit>
+            <trans-unit id="is.card.acceptable">
+                <source>is.card.acceptable</source>
+                <target>Acceptable for player's clan league. Certain cards can still work when they are one level below the current clan league</target>
+            </trans-unit>
+            <trans-unit id="is.card.acceptable.when.upgraded">
+                <source>is.card.acceptable.when.upgraded</source>
+                <target>Acceptable when upgraded for player's clan league. Computes the reachable card level to determine if that card can be acceptable</target>
+            </trans-unit>
+            <trans-unit id="is.card.upgradable">
+                <source>is.card.upgradable</source>
+                <target>Upgradable level using player's already collected cards. When card can be upgraded, the upgraded level is shown</target>
+            </trans-unit>
+            <trans-unit id="total.player.cards">
+                <source>total.player.cards</source>
+                <target>Total player cards</target>
+            </trans-unit>
+            <trans-unit id="missing.cards.next.level">
+                <source>missing.cards.next.level</source>
+                <target>Missing cards for next level</target>
+            </trans-unit>
+            <trans-unit id="required.days.next.card.level">
+                <source>required.days.next.card.level</source>
+                <target>Required days to request the card to your clanmates and get it to the level. Click the card to read this value</target>
+            </trans-unit>
+            <trans-unit id="required.days.to.max">
+                <source>required.days.to.max</source>
+                <target>Required days to request the card to your clanmates and max the card. Click the card to read this value</target>
+            </trans-unit>
+            <trans-unit id="common">
+               <source>common</source>
+               <target>Common</target>
+            </trans-unit>
+            <trans-unit id="rare">
+               <source>rare</source>
+               <target>Rare</target>
+            </trans-unit>
+            <trans-unit id="epic">
+               <source>epic</source>
+               <target>Epic</target>
+            </trans-unit>
+            <trans-unit id="legendary.type">
+               <source>legendary.type</source>
+               <target>Legendary</target>
+            </trans-unit>
+            <trans-unit id="levelled">
+               <source>levelled</source>
+               <target>Levelled</target>
+            </trans-unit>
+            <trans-unit id="acceptable">
+               <source>acceptable</source>
+               <target>Acceptable</target>
+            </trans-unit>
+            <trans-unit id="acceptable.if.upgraded">
+               <source>acceptable.if.upgraded</source>
+               <target>Acceptable if upgraded</target>
+            </trans-unit>
+            <trans-unit id="cards">
+               <source>cards</source>
+               <target>Cards</target>
+            </trans-unit>
         </body>
     </file>
 </xliff>

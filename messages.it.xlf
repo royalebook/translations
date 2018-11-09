@@ -795,6 +795,78 @@
                <source>wins.cards.ratio</source>
                <target>Rapporto tra le vittorie nel giorno della guerra e le carte guadagnate in percentuale. Più alto è il valore più forte è il giocatore</target>
            </trans-unit>
+           <trans-unit id="player.cards">
+               <source>player.cards</source>
+               <target>Carte del giocatore</target>
+           </trans-unit>
+           <trans-unit id="card.level">
+              <source>card.level</source>
+              <target>Livello della carta</target>
+           </trans-unit>
+           <trans-unit id="is.card.levelled">
+               <source>is.card.levelled</source>
+               <target>Indica se la carta è livellata per la lega in cui si trova il clan del giocatore</target>
+           </trans-unit>
+           <trans-unit id="is.card.acceptable">
+               <source>is.card.acceptable</source>
+               <target>Indica se la carta è accettabile per la lega in cui si trova il clan del giocatore. Alcune carte possono funzionare anche quando sono un livello inferiore a quello richiesto dalla lega dove si trova il clan</target>
+           </trans-unit>
+           <trans-unit id="is.card.acceptable.when.upgraded">
+               <source>is.card.acceptable.when.upgraded</source>
+               <target>Indica se la carta può essere potenziata ad un livello accettabile per la lega in cui si trova il clan del giocatore. Calcola il livello cui la carta potrebbe essere potenziata con le carte già trovate dal giocatore</target>
+           </trans-unit>
+           <trans-unit id="is.card.upgradable">
+               <source>is.card.upgradable</source>
+               <target>Mostra il livello raggiungibile dalla carta con le carte già trovate dal giocatore</target>
+           </trans-unit>
+           <trans-unit id="total.player.cards">
+               <source>total.player.cards</source>
+               <target>Numero totale delle carte trovate</target>
+           </trans-unit>
+           <trans-unit id="missing.cards.next.level">
+               <source>missing.cards.next.level</source>
+               <target>Numero di carte mancanti per il prossimo livello</target>
+           </trans-unit>
+           <trans-unit id="required.days.next.card.level">
+               <source>required.days.next.card.level</source>
+               <target>Numero di giorni necessari per richiedere la carta al clan e portarla al prossimo livello. Clicca la carta per vedere questo valore</target>
+           </trans-unit>
+           <trans-unit id="required.days.to.max">
+               <source>required.days.to.max</source>
+               <target>Numero di giorni necessari per richiedere la carta al clan e portarla al livello massimo. Clicca la carta per vedere questo valore</target>
+           </trans-unit>
+           <trans-unit id="common">
+              <source>common</source>
+              <target>Comune</target>
+           </trans-unit>
+           <trans-unit id="rare">
+              <source>rare</source>
+              <target>Rara</target>
+           </trans-unit>
+           <trans-unit id="epic">
+              <source>epic</source>
+              <target>Epica</target>
+           </trans-unit>
+           <trans-unit id="legendary.type">
+              <source>legendary.type</source>
+              <target>Leggendaria</target>
+           </trans-unit>
+           <trans-unit id="levelled">
+              <source>levelled</source>
+              <target>Livellata</target>
+           </trans-unit>
+           <trans-unit id="acceptable">
+              <source>acceptable</source>
+              <target>Accettabile</target>
+           </trans-unit>
+           <trans-unit id="acceptable.if.upgraded">
+              <source>acceptable.if.upgraded</source>
+              <target>Accettabile se potenziata</target>
+           </trans-unit>
+           <trans-unit id="cards">
+              <source>cards</source>
+              <target>Carte</target>
+           </trans-unit>
         </body>
     </file>
 </xliff>
